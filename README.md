@@ -1,0 +1,1 @@
+# Paradigmas-de-linguagens-de-programa-o-em-python
