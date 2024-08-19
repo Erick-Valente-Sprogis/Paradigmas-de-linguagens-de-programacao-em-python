@@ -16,6 +16,6 @@ elif(num1+num2)/2 >= 10:
   print((num1+num2)/2)
   
 else:
-  print("Muito quente ou muito frio")
+  print("Está frio")
   print((num1+num2)/2)
 print("END")
