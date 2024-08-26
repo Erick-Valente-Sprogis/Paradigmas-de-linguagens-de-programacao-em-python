@@ -1,5 +1,5 @@
   # Define o salário
-salario = 2500
+salario = int(input("Qual o valor do seu salário? "))
 
   # Inicializa a variável para acumular o total das contas
 total_contas = 0
@@ -18,3 +18,4 @@ valor_restante = salario - total_contas
   # Exibe o resultado
 print(f"Total das contas: R${total_contas:.2f}")
 print(f"Saldo: R${valor_restante:.2f}")
+print("END")
